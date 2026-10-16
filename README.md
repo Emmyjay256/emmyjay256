@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 
 
+I am Adongu Emmanuel Odaka a student of electrical engineering at Kyambogo University. Am currently in third year and I am passionate about creating innovative solutions that combine software and electrical engineering. My extensive experience in software programming has allowed me to have versatility in implementing remote processing and control to electrical systems. 
+
+Kindly find my official portfolio at:
+
+https://emmyjay256.github.io/portfolio/
+
+Thank you for reading. You can check out some of my public repositories.
 <!--
 **Emmyjay256/emmyjay256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
